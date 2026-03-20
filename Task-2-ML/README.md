@@ -21,6 +21,8 @@ Models were compared using R² Score to measure performance.
 - Pandas
 - Scikit-learn
 - Matplotlib
+ 
+📊 Dataset: Used same dataset from root directory (Dataset.xlsx)
 
 ## 📁 Files
 - Task2.ipynb → Main project notebook
