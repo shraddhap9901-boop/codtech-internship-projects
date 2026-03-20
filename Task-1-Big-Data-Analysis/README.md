@@ -49,6 +49,8 @@ Education vs Salary
 
 This analysis helps understand trends in the AI job market, which can be useful for job seekers and analysts.
 
+📊 Dataset: Used same dataset from root directory (Dataset.xlsx)
+
 👩‍💻 Author
 
 Shraddha
