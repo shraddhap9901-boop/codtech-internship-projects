@@ -1,56 +1,81 @@
-📊 AI Jobs Market Analysis
-📌 Project Overview
+# 📊 Big Data Analysis using PySpark
 
-This project analyzes the AI jobs market dataset to uncover trends in job roles, salaries, experience levels, and locations.
+## 🔹 Project Overview
 
-🛠 Tools Used
+This project performs Big Data Analysis on a job dataset using PySpark. The goal is to extract meaningful insights related to job roles, salaries, experience levels, and industry trends.
 
-Python
+---
 
-Pandas
+## 🔹 Objective
 
-Matplotlib / Seaborn
+* Analyze large dataset using PySpark
+* Perform data processing and transformations
+* Extract insights from job market trends
 
-Jupyter Notebook
+---
 
-📂 Dataset
+## 🔹 Technologies Used
 
-AI Jobs Market Dataset (Excel file)
+* Python
+* PySpark
+* Pandas (optional)
+* Google Colab
 
-🔍 Key Analysis Performed
+---
 
-Data Cleaning
+## 🔹 Dataset Information
 
-Data Exploration (EDA)
+The dataset contains job-related information such as:
 
-Data Visualization
+* Job Title
+* Job Category
+* Experience Level
+* Salary (min, max, average)
+* Company Size
+* Location (City, Country)
+* Remote Work Type
+* Required Skills
 
-📊 Key Insights
+---
 
-Most job roles are in AI Engineering and Data-related fields
+## 🔹 Key Operations Performed
 
-Senior-level roles offer significantly higher salaries
+* Data loading using PySpark
+* Schema inspection and data exploration
+* GroupBy analysis (job category, country, experience level)
+* Salary analysis based on roles and experience
+* Filtering high salary jobs
+* Creating new column (salary_level)
+* Aggregation and transformation
 
-Salary varies based on experience and location
+---
 
-Some cities offer higher salary ranges compared to others
+## 🔹 Key Insights
 
-📸 Visualizations
+* AI Engineering has the highest number of job opportunities
+* Senior and Lead roles receive significantly higher salaries
+* USA and Global roles offer the highest average salaries
+* Hybrid work model is more common than remote and on-site
+* Big Tech (FAANG) companies offer the highest salaries
+* High-paying jobs are mainly in ML Engineer, AI Architect, and Data Scientist roles
+* Experience and skills strongly impact salary growth
 
-Job Category Distribution
+---
 
-Salary vs Experience
+## 🔹 Conclusion
 
-Jobs by City
+This project demonstrates how PySpark can be used to efficiently process and analyze large datasets. The insights help understand job market trends in the AI and data domain.
 
-Education vs Salary
+---
 
-🚀 Conclusion
+## 🔹 Future Improvements
 
-This analysis helps understand trends in the AI job market, which can be useful for job seekers and analysts.
+* Add data visualization (charts/graphs)
+* Use advanced big data tools like Spark SQL
+* Deploy insights using dashboard (Power BI / Tableau)
 
-📊 Dataset: Used same dataset from root directory (Dataset.xlsx)
+---
 
-👩‍💻 Author
+## 🔹 Author
 
-Shraddha
+**Shraddha Patil**
