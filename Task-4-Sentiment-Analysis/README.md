@@ -37,6 +37,6 @@ Dataset used: IMDB Movie Review Dataset
 Link:https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
 
 ## Insights
-- Model achieved ~88% accuracy
+- Model achieved ~88.67% accuracy
 - Positive and negative reviews are fairly balanced
 - Model performs well but struggles slightly with negative predictions
