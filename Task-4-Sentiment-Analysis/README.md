@@ -27,3 +27,11 @@ The model performs well for basic sentiment classification and can be improved u
 ## 🔮 Future Improvements
 - Use Deep Learning models
 - Deploy as web application (Streamlit)
+
+- ## Dataset
+
+Dataset used: IMDB Movie Review Dataset  
+Link: ## Dataset
+
+Dataset used: IMDB Movie Review Dataset  
+Link: https://www.kaggle.com/datasets/...
